@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
   <head>
   </head>
   <body>
-    <h1> My name is <b>Sabbir Hossain</b> </h1>
+    <h1> My name is - <b>Sabbir Hossain</b> </h1>
   </body>
 </html>
